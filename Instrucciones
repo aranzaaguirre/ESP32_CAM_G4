@@ -1,0 +1,11 @@
+Pasos a seguir
+
+1.- Conectar el circuito solo las terminales SDA, SCK, MOSI y MISO
+2.- Conectar el FTDI al ESP32
+3.- Abrir la máuina virtual, y ejecutar el IDE de Arduino
+4.- Abrir el programa del RFID
+5.- Descargar al microcorntrolador
+6.- Sacar al microcontrolador del modo "FLASH"
+7.- Conectar las terminales 3.3V y GND en el sensor
+8.- Presionar reset en el ESP32
+9.- leer la tarjeta
